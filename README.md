@@ -35,10 +35,5 @@
 ![Image](https://github.com/user-attachments/assets/8a308189-47ed-4465-93e8-b2d14da13742)
 
 ## 4. 프로젝트 구조와 개발 일정
-PetFeelApp/
-├── frontend/ # 프론트엔드 앱 (Flutter 기반)
-├── backend/ # 백엔드 서버 (FastAPI)
-├── ai-model/ # AI 모델 학습/추론 코드 (YOLOv11 , gemini-2.5-flash기반)
-├── docs/ # 발표자료
-└── README.md
+<pre> <code>``` PetFeelApp/ ├── frontend/ # 프론트엔드 앱 (Flutter 기반) ├── backend/ # 백엔드 서버 (FastAPI) ├── ai-model/ # AI 모델 학습/추론 코드 (YOLOv11, Gemini 2.5 Flash 기반) ├── docs/ # 발표자료 └── README.md ``` </code> </pre>
 
