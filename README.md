@@ -16,4 +16,5 @@
 
 ### 1.2 상세 기능
 ![Image](https://github.com/user-attachments/assets/8a308189-47ed-4465-93e8-b2d14da13742)
+0
 
