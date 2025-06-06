@@ -22,9 +22,9 @@
 [APK 직접 다운로드](https://블라블라.apk)
 - 테스트용 계정
 ```
-이메일 아이디 : kkk@naver.com
-비밀번호 : 1234
-유저네임 : 멍멍
+이메일 아이디 : seoyeon2559@gmail.com
+비밀번호 : com1234
+유저네임 : 이서연
 ```
 
 ## 3. 서비스 흐름도와 유스케이스
@@ -35,4 +35,10 @@
 ![Image](https://github.com/user-attachments/assets/8a308189-47ed-4465-93e8-b2d14da13742)
 
 ## 4. 프로젝트 구조와 개발 일정
+PetFeelApp/
+├── frontend/ # 프론트엔드 앱 (Flutter 기반)
+├── backend/ # 백엔드 서버 (FastAPI)
+├── ai-model/ # AI 모델 학습/추론 코드 (YOLOv11 , gemini-2.5-flash기반)
+├── docs/ # 발표자료
+└── README.md
 
