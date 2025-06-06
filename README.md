@@ -60,5 +60,8 @@ PetFeelApp/
 ![Image](https://github.com/user-attachments/assets/6c97eb53-05e1-4baa-8ac9-ca5aa39f92b6)
 
 ## 8. Key Value
-- An
+- Anxiety-Free : 실시간 이상행동 감지 -> 즉시 알림으로 '혹시 모를 사고' 불안 해소
+- Actionable Insight : 단계(0-3)별 심각도 + 요약 리포트로 빠른 대응 방향 제시
+- Effortless Tracking : 캘린더,영상,일기 자동 저장 -> 데이터 기반 건강 & 루틴 관리
+- LG Ecosystem Synergy : LG의 로봇청소기,공기청청기 등과 연동해 공간까지 케어
 
