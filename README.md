@@ -34,13 +34,31 @@
 ### 3.2 유스케이스
 ![Image](https://github.com/user-attachments/assets/8a308189-47ed-4465-93e8-b2d14da13742)
 
-## 4. 프로젝트 구조와 개발 일정
+## 4. 프로젝트 구조
 ```
 PetFeelApp/
-├── frontend/      # 프론트엔드 앱 (Flutter 기반)
+├── frontend/      # 프론트엔드 앱 (Flutter 기반, Figma)
 ├── backend/       # 백엔드 서버 (FastAPI)
 ├── ai-model/      # AI 모델 학습/추론 코드 (YOLOv11, Gemini 2.5 Flash 기반)
+├── raspberry/     # 라즈베리파이용 실행 코드 및 카메라 모듈 연동
 ├── docs/          # 발표자료
 └── README.md
 ```
+
+## 5. 역할 분담
+- 팀장 : 주후상
+- FrontEnd : 김도은, 박원지, 박준호
+- BackEnd & AI-Model : 나유진, 심수지, 이민우, 주후상
+
+## 6. UI
+### 6.1 대표 화면설계
+![Image](https://github.com/user-attachments/assets/62a15581-bdcd-4096-8aa8-b68cbf4649fd)
+![Image](https://github.com/user-attachments/assets/1f285ed2-374b-4fe3-a854-4637dce5d0cc)
+![Image](https://github.com/user-attachments/assets/a220e30b-eccc-470a-b1e5-b62397c7d3b9)
+
+## 7. 데이터베이스 모델링(ERD)
+![Image](https://github.com/user-attachments/assets/6c97eb53-05e1-4baa-8ac9-ca5aa39f92b6)
+
+## 8. Key Value
+- An
 
