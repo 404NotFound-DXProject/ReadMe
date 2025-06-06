@@ -53,7 +53,7 @@ PetFeelApp/
 ## 6. UI
 ### 6.1 대표 화면설계
 ![Image](https://github.com/user-attachments/assets/62a15581-bdcd-4096-8aa8-b68cbf4649fd)
-![Image](https://github.com/user-attachments/assets/1f285ed2-374b-4fe3-a854-4637dce5d0cc)
+![Image](https://github.com/user-attachments/assets/a7f91d36-b3c8-43b7-a925-0c4357843229)
 ![Image](https://github.com/user-attachments/assets/a220e30b-eccc-470a-b1e5-b62397c7d3b9)
 
 ## 7. 데이터베이스 모델링(ERD)
