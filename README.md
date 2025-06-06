@@ -39,7 +39,7 @@
 PetFeelApp/
 ├── frontend/      # 프론트엔드 앱 (Flutter 기반, Figma)
 ├── backend/       # 백엔드 서버 (FastAPI)
-├── ai-model/      # AI 모델 학습/추론 코드 (YOLOv11, Gemini 2.5 Flash 기반)
+├── ai-model/      # AI 모델 학습/분류 코드 (YOLOv11, OpenCV, Gemini 2.5 Flash 기반)
 ├── raspberry/     # 라즈베리파이용 실행 코드 및 카메라 모듈 연동
 ├── docs/          # 발표자료
 └── README.md
