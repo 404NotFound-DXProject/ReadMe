@@ -65,5 +65,3 @@ PetFeelApp/
 - Effortless Tracking : 캘린더,영상,일기 자동 저장 -> 데이터 기반 건강 & 루틴 관리
 - LG Ecosystem Synergy : LG의 로봇청소기,공기청청기 등과 연동해 공간까지 케어
 
-- 에러러
-
