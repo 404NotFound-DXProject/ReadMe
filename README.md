@@ -28,10 +28,10 @@
 ```
 
 ## 3. 서비스 흐름도와 유스케이스
-서비스 흐름도
+### 3.1 서비스 흐름도
 ![Image](https://github.com/user-attachments/assets/f24b9d07-5623-4933-aa4e-caca8ff6d380)
 
-유스케이스
+### 3.2 유스케이스
 ![Image](https://github.com/user-attachments/assets/8a308189-47ed-4465-93e8-b2d14da13742)
 
 ## 4. 프로젝트 구조와 개발 일정
