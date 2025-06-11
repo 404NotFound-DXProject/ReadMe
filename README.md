@@ -1,6 +1,8 @@
 # 404NotFound-Project
 
 # LG 전자 펫 가전의 경험을 확장하는 AI 기반 반려동물 케어 솔루션
+“혼자 남겨진 반려동물, 보호자의 불안을 해결하는 AI 펫캠”
+
 ## 1. 목표와 기능
 
 ### 1. 반려동물 맞춤형 케어 공간
@@ -29,10 +31,11 @@
 
 ## 3. 서비스 흐름도와 유스케이스
 ### 3.1 서비스 흐름도
-![Image](https://github.com/user-attachments/assets/f24b9d07-5623-4933-aa4e-caca8ff6d380)
+![Image](https://github.com/user-attachments/assets/f912ac41-d8ea-4c15-ab08-f686e223893a)
+![Image](https://github.com/user-attachments/assets/f59709a7-e05b-4d56-9dc9-287156e97631)
 
 ### 3.2 유스케이스
-![Image](https://github.com/user-attachments/assets/8a308189-47ed-4465-93e8-b2d14da13742)
+![Image](https://github.com/user-attachments/assets/752166e3-f426-4585-b547-2928e1ff328b)
 
 ## 4. 프로젝트 구조
 ```
