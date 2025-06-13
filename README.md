@@ -24,8 +24,8 @@
 [APK 직접 다운로드](https://블라블라.apk)
 - 테스트용 계정
 ```
-이메일 아이디 : seoyeon2559@gmail.com
-비밀번호 : com1234
+이메일 아이디 : seoyeon@gmail.com
+비밀번호 : 1234
 유저네임 : 이서연
 ```
 
