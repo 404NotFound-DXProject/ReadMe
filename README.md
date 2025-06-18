@@ -21,7 +21,7 @@
 
 ### 2.2 배포 APK
 **Android**
-[APK 직접 다운로드](https://블라블라.apk)
+차후 올릴예정
 - 테스트용 계정
 ```
 이메일 아이디 : seoyeon@gmail.com
