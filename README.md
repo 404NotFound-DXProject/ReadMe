@@ -60,11 +60,15 @@ PetFeelApp/
 ![Image](https://github.com/user-attachments/assets/a220e30b-eccc-470a-b1e5-b62397c7d3b9)
 
 ## 7. 데이터베이스 모델링(ERD)
-![Image](https://github.com/user-attachments/assets/6c97eb53-05e1-4baa-8ac9-ca5aa39f92b6)
+![image](https://github.com/user-attachments/assets/e22fd9d6-5f4d-4ddc-a166-5eb810c85ecb)
+
 
 ## 8. Key Value
 - Anxiety-Free : 실시간 이상행동 감지 -> 즉시 알림으로 '혹시 모를 사고' 불안 해소
 - Actionable Insight : 단계(0-3)별 심각도 + 요약 리포트로 빠른 대응 방향 제시
 - Effortless Tracking : 캘린더,영상,일기 자동 저장 -> 데이터 기반 건강 & 루틴 관리
 - LG Ecosystem Synergy : LG의 로봇청소기,공기청청기 등과 연동해 공간까지 케어
+
+## 9. 폼보드
+![4조(울조) 펫필](https://github.com/user-attachments/assets/442e9401-2968-47d3-8193-a6f9aa33fbad)
 
