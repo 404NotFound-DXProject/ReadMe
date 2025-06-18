@@ -17,7 +17,7 @@
 
 ## 2. 시스템 아키텍처 및 배포 URL
 ### 2.1 시스템 아키텍처
-![Image](https://github.com/user-attachments/assets/1498d369-21d8-49c9-bfcf-cc590bba9811)
+![image](https://github.com/user-attachments/assets/304feafa-2846-407a-b108-963a91664e1a)
 
 ### 2.2 배포 APK
 **Android**
